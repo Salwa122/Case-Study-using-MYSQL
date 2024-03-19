@@ -1,1 +1,10 @@
+GitHub Project Description: Employee Management System
 
+Project Overview:
+This GitHub repository contains the SQL scripts and database schema for managing employee information and positions within a company. 
+The database is designed to store details such as employee names, departments, projects, addresses, dates of birth, gender, positions, dates of joining, and salaries.
+
+Tables Included:
+
+employee_info: Stores general information about employees, including their IDs, names, last names, departments, projects, addresses, dates of birth, and genders.
+employee_position: Records the positions held by employees, along with their IDs, position titles, dates of joining, and salaries.
