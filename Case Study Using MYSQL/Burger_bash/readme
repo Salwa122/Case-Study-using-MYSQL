@@ -1,1 +1,17 @@
+Project Overview:
+This GitHub repository contains the SQL scripts and database schema for analyzing the sales and operations data of Burger Bash, a fictional fast-food chain. 
+The analysis is conducted using SQL queries to derive insights into various aspects such as runner performance, customer preferences, and menu popularity.
 
+Tables Included:
+
+runner_orders: Contains information about orders assigned to runners, including pickup time, distance, duration, and cancellation status.
+burger_names: Stores the names of different burger types available at Burger Bash.
+burger_runner: Records the registration date of each runner who delivers orders for Burger Bash.
+customer_orders: Stores details of customer orders, including customer ID, burger ID, exclusions, extras, and order time.
+
+Analysis Tasks Covered:
+
+Tracking runner performance based on pickup times, distances, and durations.
+Analyzing customer order patterns, including popular burger choices, exclusions, and extras.
+Assessing the impact of cancellations on both runners and customers.
+Exploring trends in customer orders over time and identifying peak ordering periods.
